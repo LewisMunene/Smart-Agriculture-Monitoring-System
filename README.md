@@ -37,7 +37,7 @@ This project implements a smart agriculture monitoring system using an Arduino U
 
 ## Circuit Diagram
 
-![Smart Agriculture Monitoring System Circuit](![image](https://github.com/user-attachments/assets/fa2cfa48-8f9d-42be-ad4a-75ba827469d1)
+(![image](https://github.com/user-attachments/assets/fa2cfa48-8f9d-42be-ad4a-75ba827469d1)
 ![image](https://github.com/user-attachments/assets/0f3338a9-ebe8-4dfb-82aa-67b45c6c81ec)
 )  
 **Note:** Please refer to the provided circuit diagram for detailed wiring connections.
